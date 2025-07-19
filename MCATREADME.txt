@@ -16,3 +16,7 @@ Target Score: **515+**
 Consistency > Intensity  
 Active Recall > Passive Review  
 Track → Reflect → Refine
+Time frame on when things should be reviewed as the following: 
+24 hours within learning 
+7 days after Pass #1 
+Weakness Review at Least each weekend
