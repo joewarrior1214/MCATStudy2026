@@ -12,11 +12,15 @@ Target Score: **515+**
 - 📓 `logs/`: Daily logs with progress, reflections, and goals
 - 🛠 `tools/`: Templates and systems to keep me on track (e.g. 24/7/W)
 
-## Study Philosophy
-Consistency > Intensity  
-Active Recall > Passive Review  
-Track → Reflect → Refine
-Time frame on when things should be reviewed as the following: 
-24 hours within learning 
-7 days after Pass #1 
-Weakness Review at Least each weekend
+## 📚 Study Philosophy
+
+- **Consistency > Intensity**
+- **Active Recall > Passive Review**
+- **Track → Reflect → Refine**
+
+### ⏱️ Spaced Review Protocol
+All topics should be reviewed using this timeline:
+- 🔁 **24 hours** within initial exposure
+- 🔁 **7 days** after first pass
+- 📆 **Weekly**: Focused review of weaknesses at least once per weekend
+
