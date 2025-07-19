@@ -24,3 +24,10 @@ All topics should be reviewed using this timeline:
 - 🔁 **7 days** after first pass
 - 📆 **Weekly**: Focused review of weaknesses at least once per weekend
 
+## ✅ Progress Checklist
+
+- [ ] Created daily logs template
+- [ ] Added first week’s study schedule
+- [ ] Logged my first weakness
+- [ ] Imported CARS mistake tracking system
+- [ ] Reviewed 24/7/W after one week
